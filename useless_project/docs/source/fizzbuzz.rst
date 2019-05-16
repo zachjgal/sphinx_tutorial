@@ -1,0 +1,7 @@
+
+fizzbuzz
+==================================
+
+.. automodule:: fizzbuzz
+   :members:
+
